@@ -4,7 +4,7 @@ Course entity representing a course offered within a department
 in the Student Course Management System.
 
 Author: SC Tshijila (231070071)
-Date: 25 March 2026
+Date: 26 March 2026
 */
 
 package za.ac.mycput.Entity;
