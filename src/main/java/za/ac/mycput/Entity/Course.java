@@ -3,7 +3,7 @@ Course.java
 Course entity representing a course offered within a department
 in the Student Course Management System.
 
-Author: Damien Swarts (222868791)
+Author: SC Tshijila (231070071)
 Date: 25 March 2026
 */
 
