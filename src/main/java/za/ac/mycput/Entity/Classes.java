@@ -3,14 +3,11 @@ Classes.java
 Classes entity representing academic classes within a course.
 Supports multiple lecturers assigned to a single class.
 
-Author: SC Tshijila(231070071)
+Author: SC Tshijila (231070071)
 Date: 26 March 2026
 */
 
-
 package za.ac.mycput.Entity;
-
-
 
 import java.util.List;
 
