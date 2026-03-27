@@ -1,19 +1,11 @@
 /*
- * Gents im putting this here so that you can add the message in the commit message when you push to GitHub and
- *  delete this comment before you push the code and lastly add your details(Name, surname student number) to
- * the comment below this comment
- *
- * Commit Message : "Add RegistrationFactory unit test"
- */
-
-/*
 RegistrationFactoryTest.java
 Test class for RegistrationFactory.
 Validates the creation of Registration objects and ensures correct linking
 between Student and Classes entities.
 
 Author: Damien Swarts (222868791)
-Date: 25 March 2026
+Date: 27 March 2026
 */
 package TestFactory;
 

@@ -1,18 +1,10 @@
 /*
- * Gents im putting this here so that you can add the message in the commit message when you push to GitHub and
- *  delete this comment before you push the code and lastly add your details(Name, surname student number) to
- * the comment below this comment
- *
- * Commit Message : "Add CourseFactory unit test"
- */
-
-/*
 CourseFactoryTest.java
 Test class for CourseFactory.
 Validates the creation of Course objects and ensures correct assignment to a department.
 
 Author: Damien Swarts (222868791)
-Date: 25 March 2026
+Date: 27 March 2026
 */
 package TestFactory;
 
